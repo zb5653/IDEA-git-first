@@ -6,4 +6,5 @@ public class Test01 {
     Test test2 = new Test("","");
     Test test3 = new Test("","");
     Test test4 = new Test("","");
+    Test test5 = new Test("","");
 }
