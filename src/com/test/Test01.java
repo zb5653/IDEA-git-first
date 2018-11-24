@@ -8,4 +8,5 @@ public class Test01 {
     Test test4 = new Test("","");
     Test test5 = new Test("","");
     Test test6 = new Test("","");
+    Test test7 = new Test("","");
 }
