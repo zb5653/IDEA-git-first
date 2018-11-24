@@ -10,4 +10,5 @@ public class Test01 {
     Test test6 = new Test("","");
     Test test7 = new Test("12","12");
     Test test8 = new Test("12","12");
+    Test test9 = new Test("12","12");
 }
